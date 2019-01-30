@@ -1,0 +1,15 @@
+C:\Users\Student\AppData\Local\Temporary Projects\NOD\bin\Debug\NOD.exe
+C:\Users\Student\AppData\Local\Temporary Projects\NOD\bin\Debug\NOD.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\NOD\obj\x86\Debug\NOD.exe
+C:\Users\Student\AppData\Local\Temporary Projects\NOD\obj\x86\Debug\NOD.pdb
+D:\MyDoc\11G\NOD\NOD\obj\x86\Debug\NOD.exe
+D:\MyDoc\11G\NOD\NOD\obj\x86\Debug\NOD.pdb
+D:\MyDoc\11G\NOD\NOD\bin\Debug\NOD.exe
+D:\MyDoc\11G\NOD\NOD\bin\Debug\NOD.pdb
+D:\MyDoc\11G\Fraction-11G-23\NOD\obj\x86\Debug\NOD.exe
+D:\MyDoc\11G\Fraction-11G-23\NOD\obj\x86\Debug\NOD.pdb
+D:\MyDoc\11G\Fraction-11G-23\NOD\bin\Debug\NOD.exe
+D:\MyDoc\11G\Fraction-11G-23\NOD\bin\Debug\NOD.pdb
+D:\MyDoc\11G\Fraction-11G-23\NOD\obj\x86\Debug\NOD.csprojResolveAssemblyReference.cache
+D:\Gekova\MG1617\I-11G\I-11-Struct-Fraction\Fraction-11G-23\NOD\obj\x86\Debug\NOD.exe
+D:\Gekova\MG1617\I-11G\I-11-Struct-Fraction\Fraction-11G-23\NOD\obj\x86\Debug\NOD.pdb

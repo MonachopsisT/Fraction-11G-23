@@ -1,0 +1,10 @@
+D:\Gekova\MG1617\I-11G\I-11-Struct-Fraction\Fraction-11G-23\NOD\bin\Release\NOD.exe
+D:\Gekova\MG1617\I-11G\I-11-Struct-Fraction\Fraction-11G-23\NOD\bin\Release\NOD.pdb
+D:\Gekova\MG1617\I-11G\I-11-Struct-Fraction\Fraction-11G-23\NOD\obj\x86\Release\NOD.exe
+D:\Gekova\MG1617\I-11G\I-11-Struct-Fraction\Fraction-11G-23\NOD\obj\x86\Release\NOD.pdb
+E:\PERSONAL\Random\Documents\School\Programming\2016-2017\11G\Fraction-11G-23\NOD\bin\Release\NOD.exe
+E:\PERSONAL\Random\Documents\School\Programming\2016-2017\11G\Fraction-11G-23\NOD\bin\Release\NOD.pdb
+E:\PERSONAL\Random\Documents\School\Programming\2016-2017\11G\Fraction-11G-23\NOD\obj\x86\Release\NOD.csprojAssemblyReference.cache
+E:\PERSONAL\Random\Documents\School\Programming\2016-2017\11G\Fraction-11G-23\NOD\obj\x86\Release\NOD.csproj.CoreCompileInputs.cache
+E:\PERSONAL\Random\Documents\School\Programming\2016-2017\11G\Fraction-11G-23\NOD\obj\x86\Release\NOD.exe
+E:\PERSONAL\Random\Documents\School\Programming\2016-2017\11G\Fraction-11G-23\NOD\obj\x86\Release\NOD.pdb
